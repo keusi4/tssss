@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int a,b;
+
+int main()
+{
+    printf("히히히");
+    return 0;
+}
